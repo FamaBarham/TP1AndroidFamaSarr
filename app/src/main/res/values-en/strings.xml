@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment 1-FAMA-SARR</string>
+    <string name="inscription_apprenant">Student Registration</string>
+    <string name="prenom">First Name: </string>
+    <string name="nom">Last Name:</string>
+    <string name="date_de_naissance">Date of Birth:</string>
+    <string name="formation">Education</string>
+    <string name="filière">Field of Study:</string>
+    <string name="promotion">Batch:</string>
+    <string name="année">Year:</string>
+    <string name="encadrement">Supervision</string>
+    <string name="sujet">Topic: </string>
+    <string name="enregistrer">Save: </string>
+    <string name="edit_prenom">Enter your first name</string>
+    <string name="edit_nom">Enter your last name</string>
+    <string name="edit_dateN">Enter your date of birth</string>
+    <string name="edit_filiere">Name of your field of study</string>
+    <string name="edit_promotion">Batch number</string>
+    <string name="edit_annee">Academic year</string>
+    <string name="edit_sujet">Certification topic</string>
+    <string name="editPrenom">Supervisor\'s first name</string>
+    <string name="Enregistrer">SAVE</string>
+</resources>

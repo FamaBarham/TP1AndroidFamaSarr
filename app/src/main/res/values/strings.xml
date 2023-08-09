@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TP1-FAMA-SARR</string>
+    <string name="inscription_apprenant">Inscription Apprenant</string>
+    <string name="prenom">Prénom : </string>
+    <string name="nom">Nom :</string>
+    <string name="date_de_naissance">Date Naissance :</string>
+    <string name="formation">Formation</string>
+    <string name="filière">Filière :</string>
+    <string name="promotion">Promotion :</string>
+    <string name="année">Année :</string>
+    <string name="encadrement">Encadrement</string>
+    <string name="sujet">Sujet : </string>
+    <string name="enregistrer">Enregistrer : </string>
+    <string name="edit_prenom">Entrer votre prénom</string>
+    <string name="edit_nom">Entrer votre nom</string>
+    <string name="edit_dateN">Entrer votre date naissance</string>
+    <string name="edit_filiere">nom de votre filière</string>
+    <string name="edit_promotion">numero promotion</string>
+    <string name="edit_annee">année scolaire</string>
+    <string name="edit_sujet">Sujet certification</string>
+    <string name="editPrenom">prénom encadreur</string>
+    <string name="editNom">nom encadreur</string>
+    <string name="Enregistrer">ENREGISTRER</string>
+    <string name="choisirDate">Choisir une Date</string>
+    <string name="choisir">Choisir</string>
+    <string name="chooseAnnee">Annee</string>
+    <string name="chooseMois">Mois</string>
+    <string name="chooseJour">Jour</string>
+    <string name="enregistrerDate">Enregistrer la date\n</string>
+</resources>

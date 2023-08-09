@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="taille_titre">25dp</dimen>
+    <dimen name="taille_text">17dp</dimen>
+    <dimen name="largeur_text">7dp</dimen>
+    <dimen name="taille_instruction">14dp</dimen>
+</resources>
